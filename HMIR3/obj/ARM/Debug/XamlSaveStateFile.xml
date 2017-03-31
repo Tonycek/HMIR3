@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\hmir3\obj\arm\debug\intermediatexaml\hmir3.exe" HashGuid="932e4e10-2ac5-6cd9-5851-ef6f8df9d983" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="9b581ce9-a3d5-c68e-4833-5c7b7f7772c7" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="739997af-d3af-47b8-5b3b-888c2ab8fd2b" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="c:\users\tono\documents\visual studio 2015\projects\hmir3\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
